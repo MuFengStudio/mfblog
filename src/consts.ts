@@ -9,12 +9,12 @@ export const SITE_DESCRIPTION = "A blog template";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
-export const USER_SITE = "https://frosti.saroprock.com"
+export const USER_NAME = "MFCompany";
+export const USER_SITE = "https://mfblog.pages.dev/"
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://mfblog.pages.dev/";
 
 // Theme settings
 export const DAISYUI_THEME = {
